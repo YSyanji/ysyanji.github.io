@@ -1,0 +1,25 @@
+h2 {
+	color: aqua;
+	text-align: center;
+}
+
+button {
+	text-align: center;
+	border-radius: 3;
+	margin: auto;
+}
+
+body {
+    background-image: url("3.png");
+	background-position:top;
+	background-repeat: space;
+	background-size: auto;
+}
+
+header {
+	background-color: #eba8a82f;
+	padding: 30px;
+	text-align: center;
+	font-size: 35px;
+	color: white;
+}
