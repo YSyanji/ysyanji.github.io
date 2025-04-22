@@ -1,7 +1,3 @@
-h2 {
-	color: aqua;
-	text-align: center;
-}
 
 body {
     background-image:url(5.png);
@@ -19,6 +15,7 @@ header {
 	font-size: 35px;
 	color: white;
 	border-radius: 10px;
+	text-shadow: 1px 5px 10px rgb(0, 0, 0);
 }
 
 ul {
@@ -52,6 +49,7 @@ ul {
 	border-radius: 10px;
 	width: 400px;
 	height: 200px;
+	box-shadow: 3px 2px 5px black;
 }
 
 ul li {
