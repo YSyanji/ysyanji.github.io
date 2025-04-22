@@ -1,6 +1,7 @@
 h2 {
-	color: aqua;
+	color: rgb(10, 73, 99);
 	text-align: center;
+	text-rendering: auto;
 }
 
 button {
