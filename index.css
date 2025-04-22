@@ -11,4 +11,5 @@ button {
 
 body {
     background-image: url('2.jpg');
+    background-repeat: no-repeat;
 }
