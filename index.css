@@ -8,3 +8,7 @@ button {
 	border-radius: 3;
 	margin: auto;
 }
+
+body {
+    background-image: url('1.jpg');
+}
